@@ -1,5 +1,5 @@
 # LED-arduino-controller
-Controller code for Arduino board from Prometheus software for controlling LED lamp and temperature sensor.
+Controller code for Arduino board from Proteus software for controlling LED lamp and temperature sensor.
 This is an archive for college assignment from Digital System (Sistem Digital on Bahasa) class.
 
 ------------------------------------------------------------------------------------------------------
